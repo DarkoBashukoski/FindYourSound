@@ -1,0 +1,6 @@
+.card-title {
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2px;
+    color: white;
+    font-size: 4rem;
+}
