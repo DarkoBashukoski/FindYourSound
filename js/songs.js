@@ -29,7 +29,7 @@ for (let i=0; i<filteredSongs.length; i++) {
     html_text += '<p class="card-text"><i class="fa fa-clock-o"></i> Length: ' + time + '</p>';
     html_text += '<p class="card-text"><i class="fa fa-calendar"></i> Year: ' + song.year + '</p>';
     html_text += '<div class="col-md-12 text-center">';
-    html_text += '<a href="' + song.link + '" class="btn btn-danger"><i class="fa fa-youtube-play"></i> Play on YouTube</a>';
+    html_text += '<a href="' + song.link + '" target="_blank" class="btn btn-danger"><i class="fa fa-youtube-play"></i> Play on YouTube</a>';
     html_text += '</div>';
     html_text += '</div>';
     html_text += '</div>';
