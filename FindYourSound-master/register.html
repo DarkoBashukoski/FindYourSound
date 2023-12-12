@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+
+    <link rel="stylesheet" href="css/shared.css">
+    <link rel="stylesheet" href="css/register.css">
+    <link rel="stylesheet" href="lib/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<header id="navbar-area"></header>
+
+<div class="row">
+    <div class="col-md-4 text-center m-auto">
+        <section id="register-form">
+            <h3 class="text-white">Create a new account</h3>
+            <hr/>
+            <div class="text-danger"></div>
+            <div class="form-floating mb-4 txt_field">
+                <input id="username-input" class="form-control form-control-lg rounded-4" />
+                <label class="form-label text-black">Username</label>
+                <span class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-4 txt_field">
+                <input id="password-input" type="password" class="form-control form-control-lg rounded-4" />
+                <label class="form-label text-black">Password</label>
+                <span class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-4 txt_field">
+                <input id="confirm-password-input" type="password" class="form-control form-control-lg rounded-4" />
+                <label class="form-label text-black">Confirm Password</label>
+                <span class="text-danger"></span>
+            </div>
+            <div>
+                <button id="register-submit" class="w-100 btn btn-lg btn-primary rounded-pill rounded-sm">Register</button>
+            </div>
+            <div>
+                <p id="register-error" class="small mb-5 mt-3 pb-lg-2 text-danger fs-5 fw-bolder"></p>
+            </div>
+        </section>
+    </div>
+</div>
+
+<script src="lib/require.js"></script>
+<script src="lib/jquery-3.6.4.min.js"></script>
+<script type="module" src="js/register.js"></script>
+<script type="module" src="js/navbar.js"></script>
+</body>
+</html>

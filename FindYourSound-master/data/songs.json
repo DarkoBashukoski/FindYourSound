@@ -1,0 +1,455 @@
+{
+    "trance": [
+        {
+            "name": "Mandala",
+            "artist": "Blastoyz",
+            "link": "https://youtu.be/FHVD9ft_ANw",
+            "year": 2018,
+            "length": 356,
+            "image": "1.jpg"
+            
+        },
+        {
+            "name": "Free Tibet(Vini Vici Remix)",
+            "artist": "Hilight Tribe",
+            "link": "https://youtu.be/0lBjcaMokvo",
+            "year": 2016,
+            "length": 489,
+            "image": "2.jpg"
+        },
+        {
+            "name": "Great Spirit",
+            "artist": "Armin van Buuren",
+            "link": "https://youtu.be/yo4pmauhugo",
+            "year": 2016,
+            "length": 457,
+            "image": "3.jpg"
+        },
+        {
+            "name": "The Collective",
+            "artist": "Phaxe & Morten Granau",
+            "link": "https://youtu.be/cd4vsOOD9Ck",
+            "year": 2014 ,
+            "length": 501,
+            "image": "4.jpg"
+        },
+        {
+            "name": " Adhana",
+            "artist": "Vini Vici & Astrix",
+            "link": "https://youtu.be/Aooy7iw-7cY",
+            "year": 2017,
+            "length": 480,
+            "image": "5.jpg"
+        },
+        {
+            "name": "Acid Rain",
+            "artist": "Alpha Portal",
+            "link": "https://youtu.be/Zimt8PP2iNs",
+            "year": 2019,
+            "length": 487,
+            "image": "6.jpg"
+        },
+        {
+            "name": "Becoming Insane",
+            "artist": "Infected Mushroom",
+            "link": "https://youtu.be/WxhTbxMSvT0",
+            "year": 2008,
+            "length": 301,
+            "image": "7.jpg"
+        },
+        {
+            "name": "Evolve",
+            "artist": "Babalos",
+            "link": "https://youtu.be/Leg1WTtGt5k",
+            "year": 2023,
+            "length": 385,
+            "image": "8.jpg"
+        },
+        {
+            "name": "Oracle",
+            "artist": "Timmy Trumpet",
+            "link": "https://youtu.be/__TvPr_Wtvc?list=RDEMYJYaKEFrq81s0-xKdW5apw",
+            "year": 2016,
+            "length": 185,
+            "image": "9.jpg"
+        }
+    ],
+
+    "techno": [
+        {
+            "name": "Lemon Haze",
+            "artist": "Kinky Sound",
+            "link": "https://youtu.be/4UELtKvnGc4",
+            "year": 2021,
+            "length": 420,
+            "image": "1.jpg"
+        },
+        {
+            "name": "What Keeps You There",
+            "artist": "Alex Dimou",
+            "link": "https://youtu.be/xYoASnlsJ3g",
+            "year": 2019,
+            "length": 379,
+            "image": "2.jpg"
+        },
+        {
+            "name": "Gravity",
+            "artist": "artist: Boris Brejcha",
+            "link": "https://youtu.be/TAxXRmwA40o",
+            "year": 2019,
+            "length": 216,
+            "image": "3.jpg"
+        },
+        {
+            "name": "Space Date",
+            "artist": "Adam Beyer",
+            "link": "https://youtu.be/2hGNfHTSjCs",
+            "year": 2019,
+            "length": 549,
+            "image": "4.jpg"
+        },
+        {
+            "name": "Sensual",
+            "artist": "Dominik Saltevski",
+            "link": "https://youtu.be/HbqrcfMY0ug",
+            "year": 2023,
+            "length": 324,
+            "image": "5.jpg"
+        },
+        {
+            "name": "Sandstorm",
+            "artist": "Darude",
+            "link": "https://youtu.be/y6120QOlsfU",
+            "year": 2009,
+            "length": 232,
+            "image": "6.jpg"
+        },
+        {
+            "name": "Lay Low",
+            "artist": "Tiësto",
+            "link": "https://youtu.be/ROGBKyYLZ3g",
+            "year": 2023,
+            "length": 245,
+            "image": "7.jpg"
+        },
+        {
+            "name": "Blood Sugar",
+            "artist": "Pendulum",
+            "link": "https://youtu.be/JM07HYSGVho",
+            "year": 2011,
+            "length": 300,
+            "image": "8.jpg"
+        },
+        {
+            "name": "Party Starter",
+            "artist": "Matt Guy",
+            "link": "https://youtu.be/HsO2EAaxvdU?list=RDGMEMYH9CUrFO7CfLJpaD7UR85w",
+            "year": 2022,
+            "length": 356,
+            "image": "9.jpg"
+        }
+        
+    ],
+
+    "rock":[
+        {
+            "name": "You Give Love A Bad name",
+            "artist": "Bon Jovi",
+            "link": "https://youtu.be/KrZHPOeOxQQ",
+            "year": 1989,
+            "length": 350,
+            "image": "1.jpg"
+        },
+        {
+            "name": "Live Wire",
+            "artist": "Mötley Crüe",
+            "link": " https://youtu.be/M6AiAKJDWCQ",
+            "year": 2022,
+            "length": 194,
+            "image": "2.jpg"
+            
+        },
+        {
+            "name": "Aces High",
+            "artist": "Iron Maiden",
+            "link": "https://youtu.be/4sFewhTAdjs",
+            "year": 2012,
+            "length": 268,
+            "image": "3.jpg"
+        },
+        {
+            "name": "Hellraiser",
+            "artist": "Ozzy Osbourne and Lemmy from Motörhead",
+            "link": "https://youtu.be/zw79RVnlCb0?list=RD4sFewhTAdjs",
+            "year": 2993,
+            "length": 295,
+            "image": "4.jpg"
+        },
+        {
+            "name": "Kickstart my Heart",
+            "artist": "Mötley Crüe",
+            "link": "https://youtu.be/NrOemQaEJGU?list=RDGMEMJQXQAmqrnmK1SEjY_rKBGA",
+            "year": 1998,
+            "length": 283,
+            "image": "5.jpg"
+        },
+        {
+            "name": "Eye Of The Tiger",
+            "artist": "Survivor",
+            "link": "https://youtu.be/btPJPFnesV4",
+            "year": 1982,
+            "length": 244,
+            "image": "6.jpg"
+        },
+        {
+            "name": "Electric Eye",
+            "artist": "Judas Priest",
+            "link": "https://youtu.be/yMVV_HsHcX0",
+            "year": 1982,
+            "length": 233,
+            "image": "7.jpg"
+        },
+        {
+            "name": "Mother 93",
+            "artist": "Danzig",
+            "link": "https://youtu.be/zO6nRXPzX1A",
+            "year": 1988,
+            "length": 207,
+            "image": "8.jpg"
+        },
+        {
+            "name": "Smells Like Teen Spirit",
+            "artist": "Nirvana ",
+            "link": "https://youtu.be/hTWKbfoikeg",
+            "year": 1991,
+            "length": 278,
+            "image": "9.jpg"
+        }
+    ],
+
+    "jazz":[
+        {
+            "name": "Fly Me To The Moon",
+            "artist": "Frank Sinatra",
+            "link": "https://youtu.be/ZEcqHA7dbwM",
+            "year": 2008,
+            "length": 157,
+            "image": "1.jpg"
+        },
+        {
+            "name": "I Need A Dollar",
+            "artist": "Aloe Blacc",
+            "link": "https://youtu.be/nFZP8zQ5kzk",
+            "year": 2010,
+            "length": 242,
+            "image": "2.jpg"
+        },
+        {
+            "name": "What Am I To You?",
+            "artist": "Norah Jones",
+            "link": "https://youtu.be/9DTuvhEWytw",
+            "year": 2019,
+            "length": 356,
+            "image": "3.jpg"
+        },
+        {
+            "name": "Back To Black",
+            "artist": "Amy Winehouse",
+            "link": "https://youtu.be/TJAfLE39ZZ8",
+            "year": 2019,
+            "length": 240,
+            "image": "4.jpg"
+        },
+        {
+            "name": "Englishman In New York",
+            "artist": "Sting",
+            "link": "https://youtu.be/d27gTrPPAyk",
+            "year": 2998,
+            "length": 266,
+            "image": "5.jpg"
+        },
+        {
+            "name": "What A Wonderful World",
+            "artist": "Louis Armstrong",
+            "link": "https://youtu.be/A3yCcXgbKrE",
+            "year": 197,
+            "length": 137,
+            "image": "6.jpg"
+        },
+        {
+            "name": "Take Five",
+            "artist": "Dave Brubeck",
+            "link": "https://youtu.be/vmDDOFXSgAs",
+            "year": 1959,
+            "length": 329,
+            "image": "7.jpg"
+        },
+        {
+            "name": "The Sky is Crying",
+            "artist": " Gary B.B. Coleman",
+            "link": "https://youtu.be/71Gt46aX9Z4",
+            "year": 1991,
+            "length": 553,
+            "image": "8.jpg"
+        },
+        {
+            "name": "I Got The Blues ",
+            "artist": "John Watkins",
+            "link": "https://youtu.be/FHVD9ft_ANw",
+            "year": 1971,
+            "length": 433,
+            "image": "9.jpg"
+        }
+
+    ],
+
+    "rap":[
+        {
+            "name": "Business",
+            "artist": "Eminem",
+            "link": "https://youtu.be/P05bTId-92A",
+            "year": 2018,
+            "length": 250,
+            "image": "1.jpg"
+        },
+        {
+            "name": "Everyday Normal Guy 2",
+            "artist": "JonLajoie ",
+            "link": "https://youtu.be/LaDQaXMbDyw",
+            "year": 2009,
+            "length": 195,
+            "image": "2.jpg"
+        },
+        {
+            "name": "Creepin",
+            "artist": "Metro Boomin",
+            "link": "https://youtu.be/Yu_LW6o-NzE",
+            "year": 2022,
+            "length": 286,
+            "image": "3.jpg"
+        },
+        {
+            "name": "Tyler Herro",
+            "artist": "Jack Harlow",
+            "link": "link: https://youtu.be/oybwO_9Q5iY",
+            "year": 2021 ,
+            "length": 284,
+            "image": "4.jpg"
+        },
+        {
+            "name": "Welcome To The Party",
+            "artist": "Diplo",
+            "link": " https://youtu.be/QgOXIEhHU1Y",
+            "year": 2018,
+            "length": 183,
+            "image": "5.jpg"
+        },
+        {
+            "name": "River",
+            "artist": "Eminem",
+            "link": "https://youtu.be/3BXDsVD6O10",
+            "year": 2017,
+            "length": 223,
+            "image": "6.jpg"
+        },
+        {
+            "name": "Mоя голова винтом ",
+            "artist": "kostromin",
+            "link": "https://youtu.be/Yu_LW6o-NzE",
+            "year": 2021,
+            "length": 286,
+            "image": "7.jpg"
+        },
+        {
+            "name": "Freestyler",
+            "artist": "Bomfunk MC's ",
+            "link": "https://youtu.be/ymNFyxvIdaM",
+            "year": 1999,
+            "length": 292,
+            "image": "8.jpg"
+        },
+        {
+            "name": "Black And Yellow",
+            "artist": "Wiz Khalifa",
+            "link": "https://youtu.be/nWAGLkyxQ",
+            "year": 2011,
+            "length": 288,
+            "image": "9.jpg"
+        }
+    ],
+
+    "pop":[
+        {
+            "name": "Maps",
+            "artist": "Maroon 5",
+            "link": "https://youtu.be/NmugSMBh_iI",
+            "year": 2014,
+            "length": 208,
+            "image": "1.jpg"
+        },
+        {
+            "name": "Starboy",
+            "artist": "The Weekend",
+            "link": "https://youtu.be/plnfIj7dkJE",
+            "year": 2018,
+            "length": 230,
+            "image": "2.jpg"
+        },
+        {
+            "name": "Side To Side",
+            "artist": "Ariana Grande ft. Nicki Minaj",
+            "link": "https://youtu.be/SXiSVQZLje8",
+            "year": 2016,
+            "length": 356,
+            "image": "3.jpg"
+        },
+        {
+            "name": "Old Town Road",
+            "artist": "Lil Nas X",
+            "link": "https://youtu.be/r7qovpFAGrQ?list=RDGMEMQ1dJ7wXfLlqCjwV0xfSNbA",
+            "year": 2019,
+            "length": 217,
+            "image": "4.jpg"
+        },
+        {
+            "name": "Oops!",
+            "artist": "Britney Spears",
+            "link": "https://youtu.be/CduA0TULnow",
+            "year": 2009,
+            "length": 252,
+            "image": "5.jpg"
+        },
+        {
+            "name": "Walking Away",
+            "artist": "Craig David",
+            "link": "https://youtu.be/Dbb7xeZGR-U",
+            "year": 2017,
+            "length": 356,
+            "image": "6.jpg"
+        },
+        {
+            "name": "Bad Blood",
+            "artist": "Taylor Swift",
+            "link": " https://youtu.be/QcIy9NiNbmo",
+            "year": 2015,
+            "length": 356,
+            "image": "7.jpg"
+        },
+        {
+            "name": " Macarena",
+            "artist": "Los Del Río",
+            "link": "https://youtu.be/3l-WFZki9bU?list=RDGMEMQ1dJ7wXfLlqCjwV0xfSNbA",
+            "year": 1993,
+            "length": 356,
+            "image": "8.jpg"
+        },
+        {
+            "name": "Applause",
+            "artist": "Lady Gaga",
+            "link": "https://youtu.be/FHVD9ft_ANw",
+            "year": 2013,
+            "length": 214,
+            "image": "9.jpg"
+        }
+    ]
+}

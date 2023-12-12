@@ -1,0 +1,19 @@
+#home-text {
+    height: 80vh; /* 100% of the viewport height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    color: white;
+    font-size: 6rem;
+}
+
+h5 {
+    color: white;
+}
+
+.btn-primary {
+    font-weight: bold;
+}

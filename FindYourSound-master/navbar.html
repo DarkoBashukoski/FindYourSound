@@ -1,0 +1,64 @@
+<style>
+    .nav-item {
+        -webkit-transition: .3s ease-in-out;
+        transition: .5s ease-in-out;
+    }
+
+    .nav-item:hover {
+        background-color: lightblue;
+        border-radius: 25px;
+    }
+</style>
+
+<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-transparent box-shadow mb-3">
+    <div class="container">
+        <a class="navbar-brand text-white" href="index.html">Find Your Sound</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+            <ul class="navbar-nav flex flex-grow-1">
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="genres.html">Genres</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="about-us.html">About Us</a>
+                </li>
+                <ul id="user-area" class="navbar-nav ms-auto">
+                    <!-- Buttons are generated in JS code. -->
+                </ul>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<script>
+let failHtml = '<li class="nav-item ms-auto">'
+    failHtml += '<a class="nav-link text-white" href="login.html">Login</a>'
+    failHtml += '</li>'
+    failHtml += '<li class="nav-item ms-auto">'
+    failHtml += '<a class="nav-link text-white" href="register.html">Register</a>'
+    failHtml += '</li>'
+
+    let successHtml = '<li class="nav-item ms-auto">'
+    successHtml += '<a class="nav-link text-white">Welcome ' + localStorage.getItem("user") + '</a>'
+    successHtml += '</li>'
+    successHtml += '<li class="nav-item ms-auto">'
+    successHtml += '<a id="log-out" class="nav-link text-white" href="index.html">Log Out</a>'
+    successHtml += '</li>'
+
+    if (localStorage.getItem("user")) {
+        $("#user-area").append(successHtml);
+        $("#log-out").click(function() {
+            localStorage.removeItem("user");
+            location.reload();
+        });
+
+    } else {
+        $("#user-area").append(failHtml);
+    }
+</script>

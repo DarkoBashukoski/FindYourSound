@@ -1,0 +1,34 @@
+{
+  "genres": [
+    {
+      "id": "pop",
+      "name": "Pop",
+      "image": "pop.jpg"
+    }, 
+    {
+      "id": "rock",
+      "name": "Rock",
+      "image": "rock.png"
+    },
+    {
+      "id": "techno",
+      "name": "Techno",
+      "image": "techno.png"
+    },
+    {
+      "id": "jazz",
+      "name": "Jazz",
+      "image": "jazz.png"
+    },
+    {
+      "id": "rap",
+      "name": "Rap",
+      "image": "rap.jpg"
+    },
+    {
+      "id": "trance",
+      "name": "Trance",
+      "image": "trance.jpg"
+    }
+  ]
+}

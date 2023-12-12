@@ -1,0 +1,10 @@
+#registerSubmit{
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+#register-form {
+    padding: 20px;
+    background-color: rgba(200,200,200,0.15);
+    border-radius: 10px;
+}
